@@ -26,5 +26,5 @@ The output is stored in the <b>synthetic</b> folder:
 
 <p>
 <b>Number of clients</b><br/>
-To change the number of clients, change the value of variables <i>CLUSTERX</i> from line 150 to 157
+To change the number of clients, change the value of variable <i>TOTAL_CLIENTS</i> in line 150
 </p>
