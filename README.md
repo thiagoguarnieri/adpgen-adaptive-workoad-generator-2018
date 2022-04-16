@@ -8,9 +8,9 @@ AdpGen, a workload generator for live events broadcasted through HTTP Adaptive S
   
 <h1>Instructions</h1>
 <p>To call the generator from the command line use:<br /> 
-<i>python generator_cluster_markov_thesis_v2.py [execution round number] [random seed];</i></p>
+<i>python3 generator_cluster_markov_thesis_LITE.py [execution round number] [random seed];</i></p>
 <p>
-Example: python3 generator_cluster_markov_thesis_LITE.py 1 1276 7576767;<br />
+Example: python3 generator_cluster_markov_thesis_LITE.py 1 1276;<br />
 </p>
 <p>
 The output is stored in the <b>synthetic</b> folder:
